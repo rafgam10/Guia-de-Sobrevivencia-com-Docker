@@ -56,6 +56,9 @@ Os arquivos seguem uma **ordem didática**, começando do zero e avançando grad
  ├─ 15.1 Exemplo simples: Flask com Docker
  ├─ 15.2 Continuação: Flask + Docker Compose (avançado)
  └─ 16. Projeto: PHP + Apache com Docker Compose
+ └─ 17. Nomeando imagem gerada pelo Docker Compose
+ └─ 18. Entendendo restart e dependências
+ └─ 19. Gerenciando múltiplos ambientes (dev ou prod)
 ```
 
 📌 **Sugestão**: siga a numeração para um melhor aproveitamento.
