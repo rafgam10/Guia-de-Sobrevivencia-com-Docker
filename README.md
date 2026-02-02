@@ -1,1 +1,116 @@
-# Guia-de-Sobrevivencia-com-Docker
+
+# 🐳 Guia de Sobrevivência com Docker
+
+Este repositório é um **guia prático e progressivo sobre Docker**, criado para estudo e consulta, indo do básico até projetos reais com Docker Compose.
+
+📌 **Recomendação importante**:  
+👉 Este conteúdo foi pensado para ser utilizado com o **Obsidian**, garantindo a melhor experiência de leitura, navegação e anotações em Markdown.
+
+---
+
+## 📖 Como usar este repositório com Obsidian (recomendado)
+
+O **Obsidian** interpreta Markdown de forma avançada, mantendo:
+- Títulos bem organizados
+- Links internos
+- Navegação rápida entre arquivos
+- Visualização limpa e modo de leitura
+- Possibilidade de adicionar suas próprias anotações
+
+### 🔹 Passo a passo
+
+1. **Clone o repositório**
+```md
+git clone https://github.com/rafgam10/Guia-de-Sobrevivencia-com-Docker.git
+```
+
+2. **Abra o Obsidian**
+3. Clique em **"Open folder as vault"**
+4. Selecione a pasta clonada do repositório
+5. Pronto  — todos os arquivos `.md` estarão organizados e navegáveis
+
+---
+
+##  Estrutura do conteúdo
+
+Os arquivos seguem uma **ordem didática**, começando do zero e avançando gradualmente:
+
+```
+📁 Guia-de-Sobrevivencia-com-Docker
+ ├─ 0. O que é Docker e por que usar?
+ ├─ 1. Containers vs Máquinas Virtuais
+ ├─ 2. Instalando Docker no seu sistema
+ ├─ 3. Comandos básicos com Docker
+ ├─ 4. Entendendo Imagens e Containers
+ ├─ 5. Criando seu primeiro container
+ ├─ 6. Introdução ao Dockerfile
+ ├─ 7. Boas práticas no Dockerfile
+ ├─ 8. Trabalhando com volumes (parte 1)
+ ├─ 9. Trabalhando com volumes (parte 2)
+ ├─ 10. Redes no Docker
+ ├─ 11. Expondo portas e entendendo -p
+ ├─ 12. Variáveis de ambiente em containers
+ ├─ 13. Testando variáveis na prática
+ ├─ 14. Docker Compose: o que é e por que usar
+ ├─ 15. Projeto: Python + Redis com Docker Compose
+ ├─ 15.1 Exemplo simples: Flask com Docker
+ ├─ 15.2 Continuação: Flask + Docker Compose (avançado)
+ └─ 16. Projeto: PHP + Apache com Docker Compose
+```
+
+📌 **Sugestão**: siga a numeração para um melhor aproveitamento.
+
+---
+
+## ✍️ Personalize seu estudo no Obsidian
+
+Usando o Obsidian, você pode:
+
+- Criar **links internos** entre arquivos
+- Adicionar **anotações pessoais**
+- Criar um **mapa mental** com Graph View
+- Marcar conceitos importantes
+- Criar resumos próprios
+
+Exemplo de link interno no Obsidian:
+
+```md
+Veja também: [[6. Introdução ao Dockerfile]]
+```
+
+---
+
+## 🛠 Requisitos
+
+- Git
+- Docker (para executar os exemplos)
+- **Obsidian (recomendado)**  
+    👉 [https://obsidian.md](https://obsidian.md/)
+
+---
+
+## 🚀 Objetivo do projeto
+
+Este repositório tem como objetivo:
+
+- Servir como **material de estudo**
+- Ajudar quem está começando com Docker
+- Funcionar como **guia de consulta rápida**
+- Conectar teoria com **projetos reais**
+
+---
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para:
+
+- Abrir issues
+- Sugerir melhorias
+- Corrigir erros
+- Adicionar exemplos
+
+---
+
+## 📜 Licença
+
+Este projeto é de uso livre para estudos e aprendizado.
