@@ -37,50 +37,50 @@ Os arquivos seguem uma **ordem didática**, começando do zero e avançando grad
 
 ```
 📁 Guia-de-Sobrevivencia-com-Docker
-    │
-    ├── 0. O que é Docker e por que usar?.md
-    ├── 1. Containers vs Máquinas Virtuais.md
-    ├── 2. Instalando Docker no seu sistema.md
-    ├── 3. Comandos básicos com Docker.md
-    ├── 4. Entendendo Imagens e Containers.md
-    ├── 5. Criando seu primeiro container.md
-    │
-    ├── 6. Introdução ao Dockerfile.md
-    ├── 6.1. Dockerfile — Guia completo e detalhado.md
-    ├── 7. Boas práticas no Dockerfile.md
-    │
-    ├── 8. Trabalhando com volumes 1.md
-    ├── 9. Trabalhando com volumes 2.md
-    │
-    ├── 10. Redes no Docker.md
-    ├── 11. Expondo portas e entendendo -p.md
-    ├── 12. Variáveis de ambiente em containers.md
-    ├── 13. Testando variáveis na prática.md
-    │
-    ├── 14. Docker Compose - o que é e por que usar.md
-    │
-    ├── 15. Projeto - Python + Redis com Docker Compose.md
-    ├── 15.1. Exemplo simples - Flask com Docker (passo a passo).md
-    ├── 15.2. Continuação do projeto - Flask + Docker Compose (com banco, Gunicorn, env e healthcheck).md
-    │
-    ├── 16. Projeto - PHP + Apache com Docker Compose.md
-    ├── 17. Nomeando imagem gerada pelo Docker Compose.md
-    ├── 18. Entendendo restart e dependências.md
-    ├── 19. Gerenciando múltiplos ambientes (dev ou prod).md
-    │
-    ├── 20. Projeto - Frontend + Backend com Docker Compose 1.md
-    ├── 21. Projeto - Frontend + Backend com Docker Compose 2.md
-    ├── 22. Projeto - Frontend + Backend com Docker Compose 3.md
-    │
-    ├── 23. Criando um banco PostgreSQL pelo Docker Compose.md
-    ├── 24. Criando um banco MySQL com Docker Compose.md
-    │
-    ├── 25. Otimizando builds para produção 1.md
-    ├── 26. Otimizando builds para produção 2.md
-    │
-    ├── 27. Lidando com uploads e arquivos estáticos.md
-    ├── 28. Entrypoint e CMD.md
-    ├── 29. Logs e acesso ao container.md
+│
+├── 0. O que é Docker e por que usar?.md
+├── 1. Containers vs Máquinas Virtuais.md
+├── 2. Instalando Docker no seu sistema.md
+├── 3. Comandos básicos com Docker.md
+├── 4. Entendendo Imagens e Containers.md
+├── 5. Criando seu primeiro container.md
+│
+├── 6. Introdução ao Dockerfile.md
+├── 6.1. Dockerfile — Guia completo e detalhado.md
+├── 7. Boas práticas no Dockerfile.md
+│
+├── 8. Trabalhando com volumes 1.md
+├── 9. Trabalhando com volumes 2.md
+│
+├── 10. Redes no Docker.md
+├── 11. Expondo portas e entendendo -p.md
+├── 12. Variáveis de ambiente em containers.md
+├── 13. Testando variáveis na prática.md
+│
+├── 14. Docker Compose - o que é e por que usar.md
+│
+├── 15. Projeto - Python + Redis com Docker Compose.md
+├── 15.1. Exemplo simples - Flask com Docker (passo a passo).md
+├── 15.2. Continuação do projeto - Flask + Docker Compose (com banco, Gunicorn, env e healthcheck).md
+│
+├── 16. Projeto - PHP + Apache com Docker Compose.md
+├── 17. Nomeando imagem gerada pelo Docker Compose.md
+├── 18. Entendendo restart e dependências.md
+├── 19. Gerenciando múltiplos ambientes (dev ou prod).md
+│
+├── 20. Projeto - Frontend + Backend com Docker Compose 1.md
+├── 21. Projeto - Frontend + Backend com Docker Compose 2.md
+├── 22. Projeto - Frontend + Backend com Docker Compose 3.md
+│
+├── 23. Criando um banco PostgreSQL pelo Docker Compose.md
+├── 24. Criando um banco MySQL com Docker Compose.md
+│
+├── 25. Otimizando builds para produção 1.md
+├── 26. Otimizando builds para produção 2.md
+│
+├── 27. Lidando com uploads e arquivos estáticos.md
+├── 28. Entrypoint e CMD.md
+├── 29. Logs e acesso ao container.md
 ```
 
 📌 **Sugestão**: siga a numeração para um melhor aproveitamento.
